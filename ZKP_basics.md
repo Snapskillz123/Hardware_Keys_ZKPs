@@ -25,6 +25,13 @@
   Bob can clearly see whether she has switched the pens or not but alice cannot verify it for sure whether he guessed or he knows because she is colourblind. So Alice puts the pens behind her back again and repeats the process.
   
   If Bob guess her action again she'd become more certain that he knows the colour of the pens even though she doesn't actually know the colour of the pens.
+  ## Three Main Properties of ZKP:
+  ### Completeness
+  If the statement is true, an honest prover can convince an honest verifier.
+  ### Soundness
+  If the statement is false, no dishonest prover can convince the verifier that it’s true (except with a tiny probability).
+  ### Zero-Knowledge
+  If the statement is true, the verifier learns nothing other than that it is true (i.e., no additional information is revealed).
   
   ## Applications
   ZKP is widely used for secure authentication, privacy-preserving transactions, and blockchain applications.
