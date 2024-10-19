@@ -14,6 +14,7 @@ An arithmetic circuit takes a list of $n$ elements in a field $F$ and produces o
 
 Suppose we have a circuit like this:
 
-![image](https://github.com/user-attachments/assets/558a5afb-2f46-4a81-8afa-3b1894f7621a)
+![image](https://github.com/user-attachments/assets/ab8e76f0-8683-4a7c-bd25-0f57c519f217)
+
 
 The input gates perform $x1,x2,1$ and the sum gates perform $x1+1,x2+2$ and the product gate performs $(x1+x2).x2.(x2+1)$
