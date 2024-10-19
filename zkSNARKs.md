@@ -1,4 +1,4 @@
-# zk SNARKS
+# zk-SNARKS
 zk-SNARKs (Zero-Knowledge Succinct Non-Interactive Arguments of Knowledge) are a powerful cryptographic tool that allows one party (the prover) to convince another party (the verifier) that they know a specific piece of information (or solution to a problem) without revealing the information itself.
 Additionally, the proof is succinct (small and efficient to verify) and non-interactive (requires no back-and-forth communication).
 ## Arithmetic Circuits
@@ -10,7 +10,7 @@ Let's fix a finite field F.
 
 $F={0,1,2,...,p-1} for p>2$
 
-An arithmetic circuit takes a list of $n$ elements in a field $F$ and produces one element from the field. It depicted by a [direct acyclic graph (DAGs)](https://en.wikipedia.org/wiki/Directed_acyclic_graph) which is a depiction of a polynomial viaa graph.
+An arithmetic circuit takes a list of $n$ elements in a field $F$ and produces one element from the field. It is depicted by a [direct acyclic graph (DAGs)](https://en.wikipedia.org/wiki/Directed_acyclic_graph) which is a depiction of a polynomial via a graph.
 
 Suppose we have a circuit like this:
 
