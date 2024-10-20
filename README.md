@@ -8,3 +8,5 @@ My writeup and analysis on ZKPs and it's applications in the fields of Cybersecu
 [Wikipedia](https://en.wikipedia.org/wiki/Zero-knowledge_proof)
 
 [Intro to zk SNARKs](https://www.youtube.com/watch?v=gcKCW7CNu_M)
+
+[ZKP in Web Authentication](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
