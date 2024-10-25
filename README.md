@@ -12,3 +12,5 @@ My writeup and analysis on Hardware Keys and the concept of ZKPs and it's applic
 [ZKP in Web Authentication](https://blog.cloudflare.com/introducing-zero-knowledge-proofs-for-private-web-attestation-with-cross-multi-vendor-hardware/)
 
 [Hardware Key setup](https://youtu.be/fzUVrz0ixn8?si=R5iEHo3tuC_972mE)
+
+[FIDO basics](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/passwordless-authentication/fido.html#:~:text=The%20user%27s%20device%2C%20which%20could,which%20completes%20the%20registration%20process.)
