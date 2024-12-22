@@ -17,4 +17,4 @@ My writeup and analysis on Hardware Keys and the concept of ZKPs and it's applic
 
 [Hardware key we authn demo](https://webauthn.me)
 
-[Cryptohack for ZKP](https://cryptohack.org/challenges/zkp/)
+[Cryptohack for ZKP](https://cryptohack.org/challenges/zkp/) [My Writeups](https://github.com/Snapskillz123/Cryptohack/tree/main/ZKP)
