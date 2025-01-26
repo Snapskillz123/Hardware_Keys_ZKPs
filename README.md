@@ -16,4 +16,5 @@ My writeup and analysis on Hardware Keys and the concept of ZKPs and it's applic
 [FIDO basics](https://www.pingidentity.com/en/resources/identity-fundamentals/authentication/passwordless-authentication/fido.html#:~:text=The%20user%27s%20device%2C%20which%20could,which%20completes%20the%20registration%20process.)
 
 [Hardware key we authn demo](https://webauthn.me)
+
 [SoloKeys technical documentation](https://docs.solokeys.dev)
